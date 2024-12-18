@@ -1,0 +1,54 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS3",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.png"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/flutter.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySql",
+    "imageSrc": "skills/MySql.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]

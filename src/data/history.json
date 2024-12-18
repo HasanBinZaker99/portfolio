@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Diligent Soft IT",
+    "startDate": "August, 2022",
+    "endDate": "September,2023",
+    "experiences": ["Worked on Orchid Architect", "Reduced load times by 50%"],
+    "imageSrc": "history/diligent.png"
+  },
+  {
+    "role": "Full Stack Developer & Trainer",
+    "organisation": "Kaizen Soft IT",
+    "startDate": "August, 2021",
+    "endDate": "September,2022",
+    "experiences": ["Worked on php, Laravel", "Reduced load times by 50%"],
+    "imageSrc": "history/kaizen.png"
+  },
+  {
+    "role": "Full Stack Developer",
+    "organisation": "BITM",
+    "startDate": "Apr, 2020",
+    "endDate": "August, 2021",
+    "experiences": ["Worked on php, Laravel", "Created php, Laravel project"],
+    "imageSrc": "history/bitm.png"
+  }
+]
